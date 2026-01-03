@@ -44,7 +44,7 @@ Users can select brawlers and maps, then receive structured feedback on team str
 
 - **Frontend:** React, TypeScript  
 - **Build Tool:** Vite  
-- **Styling:** CSS  
+- **Styling:** TailWindCSS  
 - **APIs:** Brawl Stars / Brawlify (public data)  
 - **Deployment:** Vercel  
 - **Version Control:** Git & GitHub  
