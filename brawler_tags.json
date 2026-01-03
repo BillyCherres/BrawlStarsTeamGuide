@@ -1,0 +1,2908 @@
+{
+  "brawlers": [
+    {
+      "id": 16000101,
+      "name": "GLOWBERT",
+      "class": "Unknown",
+      "rarity": "Mythic",
+      "imageUrl": "https://cdn.brawlify.com/brawlers/borderless/16000101.png",
+      "starPowers": [
+        "BIOTIC-ECOSYSTEM",
+        "PARASITISM"
+      ],
+      "gadgets": [
+        "SLIPPERY-SAVIOR",
+        "MORE-LUMENS"
+      ],
+      "tags": {
+        "rangeBucket": "mid",
+        "damageProfile": "sustained",
+        "mobility": "high",
+        "controlScore": 1,
+        "sustainScore": 1,
+        "tankiness": "med",
+        "antiTank": null,
+        "antiAssassin": null,
+        "wallbreak": false,
+        "vision": false,
+        "areaDamage": true,
+        "gemCarrierSuitability": "med"
+      }
+    },
+    {
+      "id": 16000100,
+      "name": "GIGI",
+      "class": "Unknown",
+      "rarity": "Mythic",
+      "imageUrl": "https://cdn.brawlify.com/brawlers/borderless/16000100.png",
+      "starPowers": [
+        "PLI-PROTECTION",
+        "A-HELPING-HAND"
+      ],
+      "gadgets": [
+        "LONGER-STRINGS",
+        "DISAPPEARING-ACT"
+      ],
+      "tags": {
+        "rangeBucket": "mid",
+        "damageProfile": "sustained",
+        "mobility": "med",
+        "controlScore": 1,
+        "sustainScore": 1,
+        "tankiness": "med",
+        "antiTank": null,
+        "antiAssassin": null,
+        "wallbreak": false,
+        "vision": false,
+        "areaDamage": true,
+        "gemCarrierSuitability": "med"
+      }
+    },
+    {
+      "id": 16000099,
+      "name": "PIERCE",
+      "class": "Unknown",
+      "rarity": "Legendary",
+      "imageUrl": "https://cdn.brawlify.com/brawlers/borderless/16000099.png",
+      "starPowers": [
+        "MISSION-SWIMPOSSIBLE",
+        "SLIP-N-SNIPE"
+      ],
+      "gadgets": [
+        "BOTTOMLESS-MAGS",
+        "YOU-ONLY-BRAWL-TWICE"
+      ],
+      "tags": {
+        "rangeBucket": "mid",
+        "damageProfile": "sustained",
+        "mobility": "low",
+        "controlScore": 2,
+        "sustainScore": 1,
+        "tankiness": "med",
+        "antiTank": null,
+        "antiAssassin": null,
+        "wallbreak": false,
+        "vision": false,
+        "areaDamage": true,
+        "gemCarrierSuitability": "med"
+      }
+    },
+    {
+      "id": 16000098,
+      "name": "ZIGGY",
+      "class": "Unknown",
+      "rarity": "Mythic",
+      "imageUrl": "https://cdn.brawlify.com/brawlers/borderless/16000098.png",
+      "starPowers": [
+        "THUNDERSTRUCK",
+        "THE-GREAT-ZIGGINI"
+      ],
+      "gadgets": [
+        "ELECTRIC-SHUFFLE",
+        "NOW-YOU-SEE-ME"
+      ],
+      "tags": {
+        "rangeBucket": "mid",
+        "damageProfile": "sustained",
+        "mobility": "med",
+        "controlScore": 1,
+        "sustainScore": 0,
+        "tankiness": "med",
+        "antiTank": null,
+        "antiAssassin": null,
+        "wallbreak": false,
+        "vision": false,
+        "areaDamage": false,
+        "gemCarrierSuitability": "med"
+      }
+    },
+    {
+      "id": 16000097,
+      "name": "MINA",
+      "class": "Unknown",
+      "rarity": "Mythic",
+      "imageUrl": "https://cdn.brawlify.com/brawlers/borderless/16000097.png",
+      "starPowers": [
+        "ZUM-ZUM-ZUM",
+        "BLOWN-AWAY"
+      ],
+      "gadgets": [
+        "WINDMILL",
+        "CAPO-WHAT"
+      ],
+      "tags": {
+        "rangeBucket": "mid",
+        "damageProfile": "sustained",
+        "mobility": "med",
+        "controlScore": 0,
+        "sustainScore": 1,
+        "tankiness": "med",
+        "antiTank": null,
+        "antiAssassin": null,
+        "wallbreak": true,
+        "vision": false,
+        "areaDamage": false,
+        "gemCarrierSuitability": "med"
+      }
+    },
+    {
+      "id": 16000096,
+      "name": "TRUNK",
+      "class": "Unknown",
+      "rarity": "Epic",
+      "imageUrl": "https://cdn.brawlify.com/brawlers/borderless/16000096.png",
+      "starPowers": [
+        "NEW-INSECT-OVERLORDS",
+        "COLONY-SCOUTS"
+      ],
+      "gadgets": [
+        "FOR-THE-QUEEN",
+        "WORKER-ANTS"
+      ],
+      "tags": {
+        "rangeBucket": "mid",
+        "damageProfile": "sustained",
+        "mobility": "med",
+        "controlScore": 1,
+        "sustainScore": 1,
+        "tankiness": "med",
+        "antiTank": null,
+        "antiAssassin": null,
+        "wallbreak": false,
+        "vision": true,
+        "areaDamage": true,
+        "gemCarrierSuitability": "med"
+      }
+    },
+    {
+      "id": 16000095,
+      "name": "ALLI",
+      "class": "Unknown",
+      "rarity": "Mythic",
+      "imageUrl": "https://cdn.brawlify.com/brawlers/borderless/16000095.png",
+      "starPowers": [
+        "LIZARD-LIMBS",
+        "YOU-BETTER-RUN-YOU-BETTER-TAKE-COVER"
+      ],
+      "gadgets": [
+        "FEED-THE-GATORS",
+        "COLD-BLOODED"
+      ],
+      "tags": {
+        "rangeBucket": "mid",
+        "damageProfile": "sustained",
+        "mobility": "med",
+        "controlScore": 0,
+        "sustainScore": 1,
+        "tankiness": "med",
+        "antiTank": null,
+        "antiAssassin": null,
+        "wallbreak": false,
+        "vision": false,
+        "areaDamage": false,
+        "gemCarrierSuitability": "med"
+      }
+    },
+    {
+      "id": 16000094,
+      "name": "KAZE",
+      "class": "Unknown",
+      "rarity": "Ultra Legendary",
+      "imageUrl": "https://cdn.brawlify.com/brawlers/borderless/16000094.png",
+      "starPowers": [
+        "ADVANCED-TECHNIQUES",
+        "GRATUITY-INCLUDED"
+      ],
+      "gadgets": [
+        "GRACIOUS-HOST",
+        "HENSOJUTSU"
+      ],
+      "tags": {
+        "rangeBucket": "mid",
+        "damageProfile": "sustained",
+        "mobility": "low",
+        "controlScore": 1,
+        "sustainScore": 0,
+        "tankiness": "med",
+        "antiTank": null,
+        "antiAssassin": null,
+        "wallbreak": false,
+        "vision": false,
+        "areaDamage": false,
+        "gemCarrierSuitability": "low"
+      }
+    },
+    {
+      "id": 16000093,
+      "name": "JAE-YONG",
+      "class": "Unknown",
+      "rarity": "Mythic",
+      "imageUrl": "https://cdn.brawlify.com/brawlers/borderless/16000093.png",
+      "starPowers": [
+        "THE-CROWD-GOES-MILD",
+        "EXTRA-HIGH-NOTE"
+      ],
+      "gadgets": [
+        "WEEKEND-WARRIOR",
+        "TIME-FOR-A-SLOW-SONG"
+      ],
+      "tags": {
+        "rangeBucket": "mid",
+        "damageProfile": "sustained",
+        "mobility": "med",
+        "controlScore": 2,
+        "sustainScore": 0,
+        "tankiness": "med",
+        "antiTank": null,
+        "antiAssassin": null,
+        "wallbreak": false,
+        "vision": false,
+        "areaDamage": true,
+        "gemCarrierSuitability": "med"
+      }
+    },
+    {
+      "id": 16000092,
+      "name": "FINX",
+      "class": "Unknown",
+      "rarity": "Mythic",
+      "imageUrl": "https://cdn.brawlify.com/brawlers/borderless/16000092.png",
+      "starPowers": [
+        "HIEROGLYPH-HALT",
+        "PRIMER"
+      ],
+      "gadgets": [
+        "BACK-TO-THE-FINXTURE",
+        "NO-ESCAPE"
+      ],
+      "tags": {
+        "rangeBucket": "mid",
+        "damageProfile": "sustained",
+        "mobility": "med",
+        "controlScore": 0,
+        "sustainScore": 0,
+        "tankiness": "med",
+        "antiTank": null,
+        "antiAssassin": null,
+        "wallbreak": false,
+        "vision": false,
+        "areaDamage": false,
+        "gemCarrierSuitability": "med"
+      }
+    },
+    {
+      "id": 16000091,
+      "name": "LUMI",
+      "class": "DAMAGE-DEALER",
+      "rarity": "Mythic",
+      "imageUrl": "https://cdn.brawlify.com/brawlers/borderless/16000091.png",
+      "starPowers": [
+        "42-BURNT",
+        "HALF-TIME"
+      ],
+      "gadgets": [
+        "HIT-THE-LIGHTS",
+        "GRIM-AND-FROSTBITTEN"
+      ],
+      "tags": {
+        "rangeBucket": "mid",
+        "damageProfile": "sustained",
+        "mobility": "low",
+        "controlScore": 2,
+        "sustainScore": 0,
+        "tankiness": "med",
+        "antiTank": null,
+        "antiAssassin": null,
+        "wallbreak": false,
+        "vision": false,
+        "areaDamage": true,
+        "gemCarrierSuitability": "low"
+      }
+    },
+    {
+      "id": 16000090,
+      "name": "OLLIE",
+      "class": "Unknown",
+      "rarity": "Mythic",
+      "imageUrl": "https://cdn.brawlify.com/brawlers/borderless/16000090.png",
+      "starPowers": [
+        "KICK-PUSH",
+        "RENEGADE"
+      ],
+      "gadgets": [
+        "REGULATE",
+        "ALL-EYEZ-ON-ME"
+      ],
+      "tags": {
+        "rangeBucket": "mid",
+        "damageProfile": "sustained",
+        "mobility": "high",
+        "controlScore": 1,
+        "sustainScore": 1,
+        "tankiness": "med",
+        "antiTank": null,
+        "antiAssassin": null,
+        "wallbreak": false,
+        "vision": false,
+        "areaDamage": true,
+        "gemCarrierSuitability": "med"
+      }
+    },
+    {
+      "id": 16000089,
+      "name": "MEEPLE",
+      "class": "Unknown",
+      "rarity": "Epic",
+      "imageUrl": "https://cdn.brawlify.com/brawlers/borderless/16000089.png",
+      "starPowers": [
+        "DO-NOT-PASS-GO",
+        "RULE-BENDING"
+      ],
+      "gadgets": [
+        "MANSIONS-OF-MEEPLE",
+        "RAGEQUIT"
+      ],
+      "tags": {
+        "rangeBucket": "mid",
+        "damageProfile": "sustained",
+        "mobility": "low",
+        "controlScore": 3,
+        "sustainScore": 0,
+        "tankiness": "med",
+        "antiTank": null,
+        "antiAssassin": null,
+        "wallbreak": false,
+        "vision": false,
+        "areaDamage": true,
+        "gemCarrierSuitability": "low"
+      }
+    },
+    {
+      "id": 16000088,
+      "name": "BUZZ-LIGHTYEAR",
+      "class": "Unknown",
+      "rarity": "Legendary",
+      "imageUrl": "https://cdn.brawlify.com/brawlers/borderless/16000088.png",
+      "starPowers": [
+        "LASER-MODE",
+        "SABER-MODE",
+        "WING-MODE"
+      ],
+      "gadgets": [
+        "TURBO-BOOSTERS"
+      ],
+      "tags": {
+        "rangeBucket": "mid",
+        "damageProfile": "sustained",
+        "mobility": "high",
+        "controlScore": 0,
+        "sustainScore": 1,
+        "tankiness": "med",
+        "antiTank": null,
+        "antiAssassin": null,
+        "wallbreak": false,
+        "vision": false,
+        "areaDamage": false,
+        "gemCarrierSuitability": "med"
+      }
+    },
+    {
+      "id": 16000087,
+      "name": "JUJU",
+      "class": "ARTILLERY",
+      "rarity": "Mythic",
+      "imageUrl": "https://cdn.brawlify.com/brawlers/borderless/16000087.png",
+      "starPowers": [
+        "GUARDED-GRIS-GRIS",
+        "NUMBING-NEEDLES"
+      ],
+      "gadgets": [
+        "VOODOO-CHILE",
+        "ELEMENTALIST"
+      ],
+      "tags": {
+        "rangeBucket": "thrower",
+        "damageProfile": "poke",
+        "mobility": "low",
+        "controlScore": 1,
+        "sustainScore": 1,
+        "tankiness": "low",
+        "antiTank": null,
+        "antiAssassin": null,
+        "wallbreak": false,
+        "vision": false,
+        "areaDamage": false,
+        "gemCarrierSuitability": "low"
+      }
+    },
+    {
+      "id": 16000086,
+      "name": "SHADE",
+      "class": "ASSASSIN",
+      "rarity": "Epic",
+      "imageUrl": "https://cdn.brawlify.com/brawlers/borderless/16000086.png",
+      "starPowers": [
+        "SPOOKY-SPEEDSTER",
+        "HARDENED-HOODIE"
+      ],
+      "gadgets": [
+        "LONGARMS",
+        "JUMP-SCARE"
+      ],
+      "tags": {
+        "rangeBucket": "short",
+        "damageProfile": "burst",
+        "mobility": "high",
+        "controlScore": 1,
+        "sustainScore": 0,
+        "tankiness": "low",
+        "antiTank": null,
+        "antiAssassin": null,
+        "wallbreak": false,
+        "vision": false,
+        "areaDamage": true,
+        "gemCarrierSuitability": "low"
+      }
+    },
+    {
+      "id": 16000085,
+      "name": "KENJI",
+      "class": "ASSASSIN",
+      "rarity": "Legendary",
+      "imageUrl": "https://cdn.brawlify.com/brawlers/borderless/16000085.png",
+      "starPowers": [
+        "STUDIED-THE-BLADE",
+        "NIGIRI-NEMESIS"
+      ],
+      "gadgets": [
+        "DASHI-DASH",
+        "HOSOMAKI-HEALING"
+      ],
+      "tags": {
+        "rangeBucket": "short",
+        "damageProfile": "burst",
+        "mobility": "med",
+        "controlScore": 0,
+        "sustainScore": 1,
+        "tankiness": "low",
+        "antiTank": null,
+        "antiAssassin": null,
+        "wallbreak": false,
+        "vision": false,
+        "areaDamage": false,
+        "gemCarrierSuitability": "low"
+      }
+    },
+    {
+      "id": 16000084,
+      "name": "MOE",
+      "class": "DAMAGE-DEALER",
+      "rarity": "Mythic",
+      "imageUrl": "https://cdn.brawlify.com/brawlers/borderless/16000084.png",
+      "starPowers": [
+        "SKIPPING-STONES",
+        "SPEEDING-TICKET"
+      ],
+      "gadgets": [
+        "DODGY-DIGGING",
+        "RAT-RACE"
+      ],
+      "tags": {
+        "rangeBucket": "mid",
+        "damageProfile": "sustained",
+        "mobility": "high",
+        "controlScore": 0,
+        "sustainScore": 0,
+        "tankiness": "med",
+        "antiTank": null,
+        "antiAssassin": null,
+        "wallbreak": true,
+        "vision": false,
+        "areaDamage": false,
+        "gemCarrierSuitability": "med"
+      }
+    },
+    {
+      "id": 16000083,
+      "name": "CLANCY",
+      "class": "DAMAGE-DEALER",
+      "rarity": "Mythic",
+      "imageUrl": "https://cdn.brawlify.com/brawlers/borderless/16000083.png",
+      "starPowers": [
+        "RECON",
+        "PUMPING-UP"
+      ],
+      "gadgets": [
+        "SNAPPY-SHOOTING",
+        "TACTICAL-RETREAT"
+      ],
+      "tags": {
+        "rangeBucket": "mid",
+        "damageProfile": "sustained",
+        "mobility": "med",
+        "controlScore": 0,
+        "sustainScore": 0,
+        "tankiness": "med",
+        "antiTank": null,
+        "antiAssassin": null,
+        "wallbreak": false,
+        "vision": false,
+        "areaDamage": false,
+        "gemCarrierSuitability": "med"
+      }
+    },
+    {
+      "id": 16000082,
+      "name": "BERRY",
+      "class": "SUPPORT",
+      "rarity": "Epic",
+      "imageUrl": "https://cdn.brawlify.com/brawlers/borderless/16000082.png",
+      "starPowers": [
+        "FLOOR-IS-FINE",
+        "MAKING-A-MESS"
+      ],
+      "gadgets": [
+        "FRIENDSHIP-IS-GREAT",
+        "HEALTHY-ADDITIVES"
+      ],
+      "tags": {
+        "rangeBucket": "mid",
+        "damageProfile": "sustained",
+        "mobility": "low",
+        "controlScore": 1,
+        "sustainScore": 1,
+        "tankiness": "med",
+        "antiTank": null,
+        "antiAssassin": null,
+        "wallbreak": false,
+        "vision": false,
+        "areaDamage": true,
+        "gemCarrierSuitability": "med"
+      }
+    },
+    {
+      "id": 16000081,
+      "name": "LILY",
+      "class": "ASSASSIN",
+      "rarity": "Mythic",
+      "imageUrl": "https://cdn.brawlify.com/brawlers/borderless/16000081.png",
+      "starPowers": [
+        "SPIKY",
+        "VIGILANCE"
+      ],
+      "gadgets": [
+        "VANISH",
+        "REPOT"
+      ],
+      "tags": {
+        "rangeBucket": "short",
+        "damageProfile": "burst",
+        "mobility": "high",
+        "controlScore": 0,
+        "sustainScore": 0,
+        "tankiness": "low",
+        "antiTank": null,
+        "antiAssassin": null,
+        "wallbreak": false,
+        "vision": false,
+        "areaDamage": false,
+        "gemCarrierSuitability": "low"
+      }
+    },
+    {
+      "id": 16000080,
+      "name": "DRACO",
+      "class": "TANK",
+      "rarity": "Legendary",
+      "imageUrl": "https://cdn.brawlify.com/brawlers/borderless/16000080.png",
+      "starPowers": [
+        "EXPOSE",
+        "SHREDDING"
+      ],
+      "gadgets": [
+        "UPPER-CUT",
+        "LAST-STAND"
+      ],
+      "tags": {
+        "rangeBucket": "short",
+        "damageProfile": "sustained",
+        "mobility": "low",
+        "controlScore": 0,
+        "sustainScore": 1,
+        "tankiness": "high",
+        "antiTank": null,
+        "antiAssassin": null,
+        "wallbreak": false,
+        "vision": false,
+        "areaDamage": false,
+        "gemCarrierSuitability": "low"
+      }
+    },
+    {
+      "id": 16000079,
+      "name": "ANGELO",
+      "class": "MARKSMAN",
+      "rarity": "Epic",
+      "imageUrl": "https://cdn.brawlify.com/brawlers/borderless/16000079.png",
+      "starPowers": [
+        "EMPOWER",
+        "FLOW"
+      ],
+      "gadgets": [
+        "STINGING-FLIGHT",
+        "MASTER-FLETCHER"
+      ],
+      "tags": {
+        "rangeBucket": "long",
+        "damageProfile": "sustained",
+        "mobility": "med",
+        "controlScore": 0,
+        "sustainScore": 1,
+        "tankiness": "low",
+        "antiTank": null,
+        "antiAssassin": null,
+        "wallbreak": false,
+        "vision": false,
+        "areaDamage": true,
+        "gemCarrierSuitability": "med"
+      }
+    },
+    {
+      "id": 16000078,
+      "name": "MELODIE",
+      "class": "ASSASSIN",
+      "rarity": "Mythic",
+      "imageUrl": "https://cdn.brawlify.com/brawlers/borderless/16000078.png",
+      "starPowers": [
+        "FAST-BEATS",
+        "EXTENDED-MIX"
+      ],
+      "gadgets": [
+        "PERFECT-PITCH",
+        "INTERLUDE"
+      ],
+      "tags": {
+        "rangeBucket": "short",
+        "damageProfile": "burst",
+        "mobility": "low",
+        "controlScore": 0,
+        "sustainScore": 1,
+        "tankiness": "low",
+        "antiTank": null,
+        "antiAssassin": null,
+        "wallbreak": false,
+        "vision": false,
+        "areaDamage": false,
+        "gemCarrierSuitability": "low"
+      }
+    },
+    {
+      "id": 16000077,
+      "name": "LARRY-LAWRIE",
+      "class": "ARTILLERY",
+      "rarity": "Epic",
+      "imageUrl": "https://cdn.brawlify.com/brawlers/borderless/16000077.png",
+      "starPowers": [
+        "PROTOCOL-PROTECT",
+        "PROTOCOL-ASSIST"
+      ],
+      "gadgets": [
+        "ORDER-SWAP",
+        "ORDER-FALL-BACK"
+      ],
+      "tags": {
+        "rangeBucket": "thrower",
+        "damageProfile": "poke",
+        "mobility": "med",
+        "controlScore": 0,
+        "sustainScore": 1,
+        "tankiness": "low",
+        "antiTank": null,
+        "antiAssassin": null,
+        "wallbreak": false,
+        "vision": false,
+        "areaDamage": false,
+        "gemCarrierSuitability": "low"
+      }
+    },
+    {
+      "id": 16000076,
+      "name": "KIT",
+      "class": "SUPPORT",
+      "rarity": "Legendary",
+      "imageUrl": "https://cdn.brawlify.com/brawlers/borderless/16000076.png",
+      "starPowers": [
+        "POWER-HUNGRY",
+        "OVERLY-ATTACHED"
+      ],
+      "gadgets": [
+        "CARDBOARD-BOX",
+        "CHEESEBURGER"
+      ],
+      "tags": {
+        "rangeBucket": "mid",
+        "damageProfile": "sustained",
+        "mobility": "med",
+        "controlScore": 0,
+        "sustainScore": 1,
+        "tankiness": "med",
+        "antiTank": null,
+        "antiAssassin": null,
+        "wallbreak": false,
+        "vision": false,
+        "areaDamage": false,
+        "gemCarrierSuitability": "med"
+      }
+    },
+    {
+      "id": 16000075,
+      "name": "MICO",
+      "class": "ASSASSIN",
+      "rarity": "Mythic",
+      "imageUrl": "https://cdn.brawlify.com/brawlers/borderless/16000075.png",
+      "starPowers": [
+        "MONKEY-BUSINESS",
+        "RECORD-SMASH"
+      ],
+      "gadgets": [
+        "CLIPPING-SCREAM",
+        "PRESTO"
+      ],
+      "tags": {
+        "rangeBucket": "short",
+        "damageProfile": "burst",
+        "mobility": "med",
+        "controlScore": 1,
+        "sustainScore": 0,
+        "tankiness": "low",
+        "antiTank": null,
+        "antiAssassin": null,
+        "wallbreak": false,
+        "vision": false,
+        "areaDamage": false,
+        "gemCarrierSuitability": "low"
+      }
+    },
+    {
+      "id": 16000074,
+      "name": "CHARLIE",
+      "class": "CONTROLLER",
+      "rarity": "Mythic",
+      "imageUrl": "https://cdn.brawlify.com/brawlers/borderless/16000074.png",
+      "starPowers": [
+        "DIGESTIVE",
+        "SLIMY"
+      ],
+      "gadgets": [
+        "SPIDERS",
+        "PERSONAL-SPACE"
+      ],
+      "tags": {
+        "rangeBucket": "mid",
+        "damageProfile": "sustained",
+        "mobility": "low",
+        "controlScore": 1,
+        "sustainScore": 1,
+        "tankiness": "med",
+        "antiTank": null,
+        "antiAssassin": null,
+        "wallbreak": false,
+        "vision": false,
+        "areaDamage": false,
+        "gemCarrierSuitability": "med"
+      }
+    },
+    {
+      "id": 16000073,
+      "name": "CHUCK",
+      "class": "DAMAGE-DEALER",
+      "rarity": "Mythic",
+      "imageUrl": "https://cdn.brawlify.com/brawlers/borderless/16000073.png",
+      "starPowers": [
+        "PIT-STOP",
+        "TICKETS-PLEASE"
+      ],
+      "gadgets": [
+        "REROUTING",
+        "GHOST-TRAIN"
+      ],
+      "tags": {
+        "rangeBucket": "mid",
+        "damageProfile": "sustained",
+        "mobility": "high",
+        "controlScore": 0,
+        "sustainScore": 0,
+        "tankiness": "med",
+        "antiTank": null,
+        "antiAssassin": null,
+        "wallbreak": false,
+        "vision": false,
+        "areaDamage": false,
+        "gemCarrierSuitability": "med"
+      }
+    },
+    {
+      "id": 16000072,
+      "name": "PEARL",
+      "class": "DAMAGE-DEALER",
+      "rarity": "Epic",
+      "imageUrl": "https://cdn.brawlify.com/brawlers/borderless/16000072.png",
+      "starPowers": [
+        "HEAT-RETENTION",
+        "HEAT-SHIELD"
+      ],
+      "gadgets": [
+        "OVERCOOKED",
+        "MADE-WITH-LOVE"
+      ],
+      "tags": {
+        "rangeBucket": "mid",
+        "damageProfile": "sustained",
+        "mobility": "low",
+        "controlScore": 0,
+        "sustainScore": 2,
+        "tankiness": "med",
+        "antiTank": null,
+        "antiAssassin": null,
+        "wallbreak": false,
+        "vision": false,
+        "areaDamage": false,
+        "gemCarrierSuitability": "med"
+      }
+    },
+    {
+      "id": 16000071,
+      "name": "DOUG",
+      "class": "SUPPORT",
+      "rarity": "Mythic",
+      "imageUrl": "https://cdn.brawlify.com/brawlers/borderless/16000071.png",
+      "starPowers": [
+        "FAST-FOOD",
+        "SELF-SERVICE"
+      ],
+      "gadgets": [
+        "DOUBLE-SAUSAGE",
+        "EXTRA-MUSTARD"
+      ],
+      "tags": {
+        "rangeBucket": "mid",
+        "damageProfile": "sustained",
+        "mobility": "low",
+        "controlScore": 0,
+        "sustainScore": 1,
+        "tankiness": "med",
+        "antiTank": null,
+        "antiAssassin": null,
+        "wallbreak": false,
+        "vision": false,
+        "areaDamage": false,
+        "gemCarrierSuitability": "med"
+      }
+    },
+    {
+      "id": 16000070,
+      "name": "CORDELIUS",
+      "class": "ASSASSIN",
+      "rarity": "Legendary",
+      "imageUrl": "https://cdn.brawlify.com/brawlers/borderless/16000070.png",
+      "starPowers": [
+        "COMBOSHROOMS",
+        "MUSHROOM-KINGDOM"
+      ],
+      "gadgets": [
+        "REPLANTING",
+        "POISON-MUSHROOM"
+      ],
+      "tags": {
+        "rangeBucket": "short",
+        "damageProfile": "burst",
+        "mobility": "med",
+        "controlScore": 0,
+        "sustainScore": 1,
+        "tankiness": "low",
+        "antiTank": null,
+        "antiAssassin": null,
+        "wallbreak": false,
+        "vision": false,
+        "areaDamage": false,
+        "gemCarrierSuitability": "low"
+      }
+    },
+    {
+      "id": 16000069,
+      "name": "HANK",
+      "class": "TANK",
+      "rarity": "Epic",
+      "imageUrl": "https://cdn.brawlify.com/brawlers/borderless/16000069.png",
+      "starPowers": [
+        "ITS-GONNA-BLOW",
+        "TAKE-COVER"
+      ],
+      "gadgets": [
+        "WATER-BALLOONS",
+        "BARRICADE"
+      ],
+      "tags": {
+        "rangeBucket": "short",
+        "damageProfile": "sustained",
+        "mobility": "med",
+        "controlScore": 1,
+        "sustainScore": 0,
+        "tankiness": "high",
+        "antiTank": null,
+        "antiAssassin": null,
+        "wallbreak": false,
+        "vision": false,
+        "areaDamage": false,
+        "gemCarrierSuitability": "low"
+      }
+    },
+    {
+      "id": 16000068,
+      "name": "MAISIE",
+      "class": "MARKSMAN",
+      "rarity": "Epic",
+      "imageUrl": "https://cdn.brawlify.com/brawlers/borderless/16000068.png",
+      "starPowers": [
+        "PINPOINT-PRECISION",
+        "TREMORS"
+      ],
+      "gadgets": [
+        "DISENGAGE",
+        "FINISH-THEM"
+      ],
+      "tags": {
+        "rangeBucket": "long",
+        "damageProfile": "poke",
+        "mobility": "med",
+        "controlScore": 2,
+        "sustainScore": 0,
+        "tankiness": "low",
+        "antiTank": null,
+        "antiAssassin": null,
+        "wallbreak": false,
+        "vision": false,
+        "areaDamage": false,
+        "gemCarrierSuitability": "low"
+      }
+    },
+    {
+      "id": 16000067,
+      "name": "WILLOW",
+      "class": "CONTROLLER",
+      "rarity": "Mythic",
+      "imageUrl": "https://cdn.brawlify.com/brawlers/borderless/16000067.png",
+      "starPowers": [
+        "LOVE-IS-BLIND",
+        "OBSESSION"
+      ],
+      "gadgets": [
+        "SPELLBOUND",
+        "DIVE"
+      ],
+      "tags": {
+        "rangeBucket": "mid",
+        "damageProfile": "sustained",
+        "mobility": "med",
+        "controlScore": 0,
+        "sustainScore": 0,
+        "tankiness": "med",
+        "antiTank": null,
+        "antiAssassin": null,
+        "wallbreak": false,
+        "vision": false,
+        "areaDamage": false,
+        "gemCarrierSuitability": "med"
+      }
+    },
+    {
+      "id": 16000066,
+      "name": "R-T",
+      "class": "DAMAGE-DEALER",
+      "rarity": "Mythic",
+      "imageUrl": "https://cdn.brawlify.com/brawlers/borderless/16000066.png",
+      "starPowers": [
+        "QUICK-MATHS",
+        "RECORDING"
+      ],
+      "gadgets": [
+        "OUT-OF-LINE",
+        "HACKS"
+      ],
+      "tags": {
+        "rangeBucket": "mid",
+        "damageProfile": "sustained",
+        "mobility": "med",
+        "controlScore": 0,
+        "sustainScore": 0,
+        "tankiness": "med",
+        "antiTank": null,
+        "antiAssassin": null,
+        "wallbreak": false,
+        "vision": false,
+        "areaDamage": false,
+        "gemCarrierSuitability": "med"
+      }
+    },
+    {
+      "id": 16000065,
+      "name": "MANDY",
+      "class": "MARKSMAN",
+      "rarity": "Epic",
+      "imageUrl": "https://cdn.brawlify.com/brawlers/borderless/16000065.png",
+      "starPowers": [
+        "IN-MY-SIGHTS",
+        "HARD-CANDY"
+      ],
+      "gadgets": [
+        "CARAMELIZE",
+        "COOKIE-CRUMBS"
+      ],
+      "tags": {
+        "rangeBucket": "long",
+        "damageProfile": "poke",
+        "mobility": "med",
+        "controlScore": 1,
+        "sustainScore": 1,
+        "tankiness": "low",
+        "antiTank": null,
+        "antiAssassin": null,
+        "wallbreak": false,
+        "vision": false,
+        "areaDamage": false,
+        "gemCarrierSuitability": "med"
+      }
+    },
+    {
+      "id": 16000064,
+      "name": "GRAY",
+      "class": "SUPPORT",
+      "rarity": "Mythic",
+      "imageUrl": "https://cdn.brawlify.com/brawlers/borderless/16000064.png",
+      "starPowers": [
+        "FAKE-INJURY",
+        "NEW-PERSPECTIVE"
+      ],
+      "gadgets": [
+        "WALKING-CANE",
+        "GRAND-PIANO"
+      ],
+      "tags": {
+        "rangeBucket": "mid",
+        "damageProfile": "sustained",
+        "mobility": "low",
+        "controlScore": 1,
+        "sustainScore": 1,
+        "tankiness": "med",
+        "antiTank": null,
+        "antiAssassin": null,
+        "wallbreak": false,
+        "vision": false,
+        "areaDamage": false,
+        "gemCarrierSuitability": "med"
+      }
+    },
+    {
+      "id": 16000063,
+      "name": "CHESTER",
+      "class": "DAMAGE-DEALER",
+      "rarity": "Legendary",
+      "imageUrl": "https://cdn.brawlify.com/brawlers/borderless/16000063.png",
+      "starPowers": [
+        "SINGLE-BELLOMANIA",
+        "SNEAK-PEEK"
+      ],
+      "gadgets": [
+        "SPICY-DICE",
+        "CANDY-BEANS"
+      ],
+      "tags": {
+        "rangeBucket": "mid",
+        "damageProfile": "sustained",
+        "mobility": "low",
+        "controlScore": 0,
+        "sustainScore": 0,
+        "tankiness": "med",
+        "antiTank": null,
+        "antiAssassin": null,
+        "wallbreak": false,
+        "vision": false,
+        "areaDamage": false,
+        "gemCarrierSuitability": "low"
+      }
+    },
+    {
+      "id": 16000062,
+      "name": "BUSTER",
+      "class": "TANK",
+      "rarity": "Mythic",
+      "imageUrl": "https://cdn.brawlify.com/brawlers/borderless/16000062.png",
+      "starPowers": [
+        "BLOCKBUSTER",
+        "KEVLAR-VEST"
+      ],
+      "gadgets": [
+        "UTILITY-BELT",
+        "SLO-MO-REPLAY"
+      ],
+      "tags": {
+        "rangeBucket": "short",
+        "damageProfile": "sustained",
+        "mobility": "med",
+        "controlScore": 3,
+        "sustainScore": 1,
+        "tankiness": "high",
+        "antiTank": null,
+        "antiAssassin": null,
+        "wallbreak": false,
+        "vision": false,
+        "areaDamage": true,
+        "gemCarrierSuitability": "med"
+      }
+    },
+    {
+      "id": 16000061,
+      "name": "GUS",
+      "class": "SUPPORT",
+      "rarity": "Super Rare",
+      "imageUrl": "https://cdn.brawlify.com/brawlers/borderless/16000061.png",
+      "starPowers": [
+        "HEALTH-BONANZA",
+        "SPIRIT-ANIMAL"
+      ],
+      "gadgets": [
+        "KOOKY-POPPER",
+        "SOUL-SWITCHER"
+      ],
+      "tags": {
+        "rangeBucket": "mid",
+        "damageProfile": "sustained",
+        "mobility": "low",
+        "controlScore": 0,
+        "sustainScore": 1,
+        "tankiness": "med",
+        "antiTank": null,
+        "antiAssassin": null,
+        "wallbreak": false,
+        "vision": false,
+        "areaDamage": true,
+        "gemCarrierSuitability": "med"
+      }
+    },
+    {
+      "id": 16000060,
+      "name": "SAM",
+      "class": "ASSASSIN",
+      "rarity": "Epic",
+      "imageUrl": "https://cdn.brawlify.com/brawlers/borderless/16000060.png",
+      "starPowers": [
+        "HEARTY-RECOVERY",
+        "REMOTE-RECHARGE"
+      ],
+      "gadgets": [
+        "MAGNETIC-FIELD",
+        "PULSE-REPELLENT"
+      ],
+      "tags": {
+        "rangeBucket": "short",
+        "damageProfile": "burst",
+        "mobility": "med",
+        "controlScore": 2,
+        "sustainScore": 1,
+        "tankiness": "low",
+        "antiTank": null,
+        "antiAssassin": null,
+        "wallbreak": false,
+        "vision": false,
+        "areaDamage": true,
+        "gemCarrierSuitability": "low"
+      }
+    },
+    {
+      "id": 16000059,
+      "name": "OTIS",
+      "class": "CONTROLLER",
+      "rarity": "Mythic",
+      "imageUrl": "https://cdn.brawlify.com/brawlers/borderless/16000059.png",
+      "starPowers": [
+        "STENCIL-GLUE",
+        "INK-REFILLS"
+      ],
+      "gadgets": [
+        "DORMANT-STAR",
+        "PHAT-SPLATTER"
+      ],
+      "tags": {
+        "rangeBucket": "mid",
+        "damageProfile": "sustained",
+        "mobility": "low",
+        "controlScore": 0,
+        "sustainScore": 0,
+        "tankiness": "med",
+        "antiTank": null,
+        "antiAssassin": null,
+        "wallbreak": false,
+        "vision": false,
+        "areaDamage": false,
+        "gemCarrierSuitability": "low"
+      }
+    },
+    {
+      "id": 16000058,
+      "name": "BONNIE",
+      "class": "MARKSMAN",
+      "rarity": "Epic",
+      "imageUrl": "https://cdn.brawlify.com/brawlers/borderless/16000058.png",
+      "starPowers": [
+        "BLACK-POWDER",
+        "WISDOM-TOOTH"
+      ],
+      "gadgets": [
+        "SUGAR-RUSH",
+        "CRASH-TEST"
+      ],
+      "tags": {
+        "rangeBucket": "long",
+        "damageProfile": "poke",
+        "mobility": "high",
+        "controlScore": 0,
+        "sustainScore": 0,
+        "tankiness": "low",
+        "antiTank": null,
+        "antiAssassin": null,
+        "wallbreak": false,
+        "vision": false,
+        "areaDamage": true,
+        "gemCarrierSuitability": "med"
+      }
+    },
+    {
+      "id": 16000057,
+      "name": "JANET",
+      "class": "MARKSMAN",
+      "rarity": "Mythic",
+      "imageUrl": "https://cdn.brawlify.com/brawlers/borderless/16000057.png",
+      "starPowers": [
+        "STAGE-VIEW",
+        "VOCAL-WARM-UP"
+      ],
+      "gadgets": [
+        "DROP-THE-BASS",
+        "BACKSTAGE-PASS"
+      ],
+      "tags": {
+        "rangeBucket": "long",
+        "damageProfile": "sustained",
+        "mobility": "low",
+        "controlScore": 2,
+        "sustainScore": 0,
+        "tankiness": "low",
+        "antiTank": null,
+        "antiAssassin": null,
+        "wallbreak": true,
+        "vision": true,
+        "areaDamage": true,
+        "gemCarrierSuitability": "low"
+      }
+    },
+    {
+      "id": 16000056,
+      "name": "EVE",
+      "class": "DAMAGE-DEALER",
+      "rarity": "Mythic",
+      "imageUrl": "https://cdn.brawlify.com/brawlers/borderless/16000056.png",
+      "starPowers": [
+        "UNNATURAL-ORDER",
+        "HAPPY-SURPRISE"
+      ],
+      "gadgets": [
+        "GOTTA-GO",
+        "MOTHERLY-LOVE"
+      ],
+      "tags": {
+        "rangeBucket": "mid",
+        "damageProfile": "sustained",
+        "mobility": "med",
+        "controlScore": 0,
+        "sustainScore": 1,
+        "tankiness": "med",
+        "antiTank": null,
+        "antiAssassin": null,
+        "wallbreak": false,
+        "vision": false,
+        "areaDamage": false,
+        "gemCarrierSuitability": "med"
+      }
+    },
+    {
+      "id": 16000054,
+      "name": "FANG",
+      "class": "ASSASSIN",
+      "rarity": "Mythic",
+      "imageUrl": "https://cdn.brawlify.com/brawlers/borderless/16000054.png",
+      "starPowers": [
+        "FRESH-KICKS",
+        "DIVINE-SOLES"
+      ],
+      "gadgets": [
+        "CORN-FU",
+        "ROUNDHOUSE-KICK"
+      ],
+      "tags": {
+        "rangeBucket": "short",
+        "damageProfile": "burst",
+        "mobility": "med",
+        "controlScore": 1,
+        "sustainScore": 0,
+        "tankiness": "low",
+        "antiTank": null,
+        "antiAssassin": null,
+        "wallbreak": false,
+        "vision": false,
+        "areaDamage": true,
+        "gemCarrierSuitability": "low"
+      }
+    },
+    {
+      "id": 16000053,
+      "name": "LOLA",
+      "class": "DAMAGE-DEALER",
+      "rarity": "Epic",
+      "imageUrl": "https://cdn.brawlify.com/brawlers/borderless/16000053.png",
+      "starPowers": [
+        "IMPROVISE",
+        "SEALED-WITH-A-KISS"
+      ],
+      "gadgets": [
+        "FREEZE-FRAME",
+        "STUNT-DOUBLE"
+      ],
+      "tags": {
+        "rangeBucket": "mid",
+        "damageProfile": "sustained",
+        "mobility": "low",
+        "controlScore": 1,
+        "sustainScore": 2,
+        "tankiness": "med",
+        "antiTank": null,
+        "antiAssassin": null,
+        "wallbreak": false,
+        "vision": false,
+        "areaDamage": false,
+        "gemCarrierSuitability": "med"
+      }
+    },
+    {
+      "id": 16000052,
+      "name": "MEG",
+      "class": "TANK",
+      "rarity": "Legendary",
+      "imageUrl": "https://cdn.brawlify.com/brawlers/borderless/16000052.png",
+      "starPowers": [
+        "FORCE-FIELD",
+        "HEAVY-METAL"
+      ],
+      "gadgets": [
+        "JOLTING-VOLTS",
+        "TOOLBOX"
+      ],
+      "tags": {
+        "rangeBucket": "short",
+        "damageProfile": "sustained",
+        "mobility": "low",
+        "controlScore": 2,
+        "sustainScore": 2,
+        "tankiness": "high",
+        "antiTank": null,
+        "antiAssassin": null,
+        "wallbreak": false,
+        "vision": false,
+        "areaDamage": true,
+        "gemCarrierSuitability": "med"
+      }
+    },
+    {
+      "id": 16000051,
+      "name": "ASH",
+      "class": "TANK",
+      "rarity": "Epic",
+      "imageUrl": "https://cdn.brawlify.com/brawlers/borderless/16000051.png",
+      "starPowers": [
+        "FIRST-BASH",
+        "MAD-AS-HECK"
+      ],
+      "gadgets": [
+        "CHILL-PILL",
+        "ROTTEN-BANANA"
+      ],
+      "tags": {
+        "rangeBucket": "short",
+        "damageProfile": "sustained",
+        "mobility": "high",
+        "controlScore": 0,
+        "sustainScore": 1,
+        "tankiness": "high",
+        "antiTank": null,
+        "antiAssassin": null,
+        "wallbreak": false,
+        "vision": false,
+        "areaDamage": false,
+        "gemCarrierSuitability": "med"
+      }
+    },
+    {
+      "id": 16000050,
+      "name": "GRIFF",
+      "class": "CONTROLLER",
+      "rarity": "Epic",
+      "imageUrl": "https://cdn.brawlify.com/brawlers/borderless/16000050.png",
+      "starPowers": [
+        "KEEP-THE-CHANGE",
+        "BUSINESS-RESILIENCE"
+      ],
+      "gadgets": [
+        "PIGGY-BANK",
+        "COIN-SHOWER"
+      ],
+      "tags": {
+        "rangeBucket": "mid",
+        "damageProfile": "sustained",
+        "mobility": "low",
+        "controlScore": 0,
+        "sustainScore": 1,
+        "tankiness": "med",
+        "antiTank": null,
+        "antiAssassin": null,
+        "wallbreak": false,
+        "vision": false,
+        "areaDamage": true,
+        "gemCarrierSuitability": "med"
+      }
+    },
+    {
+      "id": 16000049,
+      "name": "BUZZ",
+      "class": "ASSASSIN",
+      "rarity": "Mythic",
+      "imageUrl": "https://cdn.brawlify.com/brawlers/borderless/16000049.png",
+      "starPowers": [
+        "TOUGHER-TORPEDO",
+        "EYES-SHARP"
+      ],
+      "gadgets": [
+        "RESERVE-BUOY",
+        "X-RAY-SHADES"
+      ],
+      "tags": {
+        "rangeBucket": "short",
+        "damageProfile": "burst",
+        "mobility": "low",
+        "controlScore": 2,
+        "sustainScore": 0,
+        "tankiness": "low",
+        "antiTank": null,
+        "antiAssassin": null,
+        "wallbreak": false,
+        "vision": false,
+        "areaDamage": true,
+        "gemCarrierSuitability": "low"
+      }
+    },
+    {
+      "id": 16000048,
+      "name": "GROM",
+      "class": "ARTILLERY",
+      "rarity": "Epic",
+      "imageUrl": "https://cdn.brawlify.com/brawlers/borderless/16000048.png",
+      "starPowers": [
+        "FOOT-PATROL",
+        "X-FACTOR"
+      ],
+      "gadgets": [
+        "WATCHTOWER",
+        "RADIO-CHECK"
+      ],
+      "tags": {
+        "rangeBucket": "thrower",
+        "damageProfile": "sustained",
+        "mobility": "high",
+        "controlScore": 2,
+        "sustainScore": 1,
+        "tankiness": "low",
+        "antiTank": null,
+        "antiAssassin": null,
+        "wallbreak": false,
+        "vision": false,
+        "areaDamage": true,
+        "gemCarrierSuitability": "low"
+      }
+    },
+    {
+      "id": 16000047,
+      "name": "SQUEAK",
+      "class": "CONTROLLER",
+      "rarity": "Mythic",
+      "imageUrl": "https://cdn.brawlify.com/brawlers/borderless/16000047.png",
+      "starPowers": [
+        "CHAIN-REACTION",
+        "SUPER-STICKY"
+      ],
+      "gadgets": [
+        "WINDUP",
+        "RESIDUE"
+      ],
+      "tags": {
+        "rangeBucket": "mid",
+        "damageProfile": "sustained",
+        "mobility": "low",
+        "controlScore": 2,
+        "sustainScore": 0,
+        "tankiness": "med",
+        "antiTank": null,
+        "antiAssassin": null,
+        "wallbreak": false,
+        "vision": false,
+        "areaDamage": true,
+        "gemCarrierSuitability": "low"
+      }
+    },
+    {
+      "id": 16000046,
+      "name": "BELLE",
+      "class": "MARKSMAN",
+      "rarity": "Epic",
+      "imageUrl": "https://cdn.brawlify.com/brawlers/borderless/16000046.png",
+      "starPowers": [
+        "POSITIVE-FEEDBACK",
+        "GROUNDED"
+      ],
+      "gadgets": [
+        "NEST-EGG",
+        "REVERSE-POLARITY"
+      ],
+      "tags": {
+        "rangeBucket": "long",
+        "damageProfile": "poke",
+        "mobility": "low",
+        "controlScore": 1,
+        "sustainScore": 1,
+        "tankiness": "low",
+        "antiTank": null,
+        "antiAssassin": null,
+        "wallbreak": false,
+        "vision": false,
+        "areaDamage": false,
+        "gemCarrierSuitability": "low"
+      }
+    },
+    {
+      "id": 16000045,
+      "name": "STU",
+      "class": "ASSASSIN",
+      "rarity": "Epic",
+      "imageUrl": "https://cdn.brawlify.com/brawlers/borderless/16000045.png",
+      "starPowers": [
+        "ZERO-DRAG",
+        "GASO-HEAL"
+      ],
+      "gadgets": [
+        "SPEED-ZONE",
+        "BREAKTHROUGH"
+      ],
+      "tags": {
+        "rangeBucket": "short",
+        "damageProfile": "burst",
+        "mobility": "high",
+        "controlScore": 2,
+        "sustainScore": 1,
+        "tankiness": "low",
+        "antiTank": null,
+        "antiAssassin": null,
+        "wallbreak": false,
+        "vision": false,
+        "areaDamage": true,
+        "gemCarrierSuitability": "low"
+      }
+    },
+    {
+      "id": 16000044,
+      "name": "RUFFS",
+      "class": "SUPPORT",
+      "rarity": "Mythic",
+      "imageUrl": "https://cdn.brawlify.com/brawlers/borderless/16000044.png",
+      "starPowers": [
+        "AIR-SUPERIORITY",
+        "FIELD-PROMOTION"
+      ],
+      "gadgets": [
+        "TAKE-COVER",
+        "AIR-SUPPORT"
+      ],
+      "tags": {
+        "rangeBucket": "mid",
+        "damageProfile": "sustained",
+        "mobility": "low",
+        "controlScore": 1,
+        "sustainScore": 1,
+        "tankiness": "med",
+        "antiTank": null,
+        "antiAssassin": null,
+        "wallbreak": true,
+        "vision": false,
+        "areaDamage": true,
+        "gemCarrierSuitability": "med"
+      }
+    },
+    {
+      "id": 16000043,
+      "name": "EDGAR",
+      "class": "ASSASSIN",
+      "rarity": "Epic",
+      "imageUrl": "https://cdn.brawlify.com/brawlers/borderless/16000043.png",
+      "starPowers": [
+        "HARD-LANDING",
+        "FISTICUFFS"
+      ],
+      "gadgets": [
+        "LETS-FLY",
+        "HARDCORE"
+      ],
+      "tags": {
+        "rangeBucket": "short",
+        "damageProfile": "sustained",
+        "mobility": "high",
+        "controlScore": 0,
+        "sustainScore": 2,
+        "tankiness": "low",
+        "antiTank": null,
+        "antiAssassin": null,
+        "wallbreak": false,
+        "vision": false,
+        "areaDamage": true,
+        "gemCarrierSuitability": "med"
+      }
+    },
+    {
+      "id": 16000042,
+      "name": "BYRON",
+      "class": "SUPPORT",
+      "rarity": "Mythic",
+      "imageUrl": "https://cdn.brawlify.com/brawlers/borderless/16000042.png",
+      "starPowers": [
+        "MALAISE",
+        "INJECTION"
+      ],
+      "gadgets": [
+        "SHOT-IN-THE-ARM",
+        "BOOSTER-SHOTS"
+      ],
+      "tags": {
+        "rangeBucket": "mid",
+        "damageProfile": "sustained",
+        "mobility": "low",
+        "controlScore": 0,
+        "sustainScore": 1,
+        "tankiness": "med",
+        "antiTank": null,
+        "antiAssassin": null,
+        "wallbreak": false,
+        "vision": false,
+        "areaDamage": false,
+        "gemCarrierSuitability": "med"
+      }
+    },
+    {
+      "id": 16000041,
+      "name": "LOU",
+      "class": "CONTROLLER",
+      "rarity": "Mythic",
+      "imageUrl": "https://cdn.brawlify.com/brawlers/borderless/16000041.png",
+      "starPowers": [
+        "SUPERCOOL",
+        "HYPOTHERMIA"
+      ],
+      "gadgets": [
+        "ICE-BLOCK",
+        "CRYO-SYRUP"
+      ],
+      "tags": {
+        "rangeBucket": "mid",
+        "damageProfile": "sustained",
+        "mobility": "low",
+        "controlScore": 1,
+        "sustainScore": 1,
+        "tankiness": "med",
+        "antiTank": null,
+        "antiAssassin": null,
+        "wallbreak": false,
+        "vision": false,
+        "areaDamage": true,
+        "gemCarrierSuitability": "med"
+      }
+    },
+    {
+      "id": 16000040,
+      "name": "AMBER",
+      "class": "CONTROLLER",
+      "rarity": "Legendary",
+      "imageUrl": "https://cdn.brawlify.com/brawlers/borderless/16000040.png",
+      "starPowers": [
+        "WILD-FLAMES",
+        "SCORCHIN-SIPHON"
+      ],
+      "gadgets": [
+        "FIRE-STARTERS",
+        "DANCING-FLAMES"
+      ],
+      "tags": {
+        "rangeBucket": "mid",
+        "damageProfile": "sustained",
+        "mobility": "high",
+        "controlScore": 0,
+        "sustainScore": 0,
+        "tankiness": "med",
+        "antiTank": null,
+        "antiAssassin": null,
+        "wallbreak": false,
+        "vision": false,
+        "areaDamage": true,
+        "gemCarrierSuitability": "med"
+      }
+    },
+    {
+      "id": 16000039,
+      "name": "COLETTE",
+      "class": "DAMAGE-DEALER",
+      "rarity": "Epic",
+      "imageUrl": "https://cdn.brawlify.com/brawlers/borderless/16000039.png",
+      "starPowers": [
+        "PUSH-IT",
+        "MASS-TAX"
+      ],
+      "gadgets": [
+        "NA-AH",
+        "GOTCHA"
+      ],
+      "tags": {
+        "rangeBucket": "mid",
+        "damageProfile": "sustained",
+        "mobility": "med",
+        "controlScore": 1,
+        "sustainScore": 2,
+        "tankiness": "med",
+        "antiTank": null,
+        "antiAssassin": null,
+        "wallbreak": false,
+        "vision": false,
+        "areaDamage": false,
+        "gemCarrierSuitability": "med"
+      }
+    },
+    {
+      "id": 16000038,
+      "name": "SURGE",
+      "class": "DAMAGE-DEALER",
+      "rarity": "Legendary",
+      "imageUrl": "https://cdn.brawlify.com/brawlers/borderless/16000038.png",
+      "starPowers": [
+        "TO-THE-MAX",
+        "SERVE-ICE-COLD"
+      ],
+      "gadgets": [
+        "POWER-SURGE",
+        "POWER-SHIELD"
+      ],
+      "tags": {
+        "rangeBucket": "mid",
+        "damageProfile": "sustained",
+        "mobility": "low",
+        "controlScore": 0,
+        "sustainScore": 1,
+        "tankiness": "med",
+        "antiTank": null,
+        "antiAssassin": null,
+        "wallbreak": false,
+        "vision": false,
+        "areaDamage": false,
+        "gemCarrierSuitability": "med"
+      }
+    },
+    {
+      "id": 16000037,
+      "name": "SPROUT",
+      "class": "ARTILLERY",
+      "rarity": "Mythic",
+      "imageUrl": "https://cdn.brawlify.com/brawlers/borderless/16000037.png",
+      "starPowers": [
+        "OVERGROWTH",
+        "PHOTOSYNTHESIS"
+      ],
+      "gadgets": [
+        "GARDEN-MULCHER",
+        "TRANSPLANT"
+      ],
+      "tags": {
+        "rangeBucket": "thrower",
+        "damageProfile": "poke",
+        "mobility": "med",
+        "controlScore": 0,
+        "sustainScore": 2,
+        "tankiness": "low",
+        "antiTank": null,
+        "antiAssassin": null,
+        "wallbreak": false,
+        "vision": false,
+        "areaDamage": true,
+        "gemCarrierSuitability": "low"
+      }
+    },
+    {
+      "id": 16000036,
+      "name": "NANI",
+      "class": "MARKSMAN",
+      "rarity": "Epic",
+      "imageUrl": "https://cdn.brawlify.com/brawlers/borderless/16000036.png",
+      "starPowers": [
+        "AUTOFOCUS",
+        "TEMPERED-STEEL"
+      ],
+      "gadgets": [
+        "WARPIN-TIME",
+        "RETURN-TO-SENDER"
+      ],
+      "tags": {
+        "rangeBucket": "long",
+        "damageProfile": "poke",
+        "mobility": "med",
+        "controlScore": 0,
+        "sustainScore": 0,
+        "tankiness": "low",
+        "antiTank": null,
+        "antiAssassin": null,
+        "wallbreak": false,
+        "vision": false,
+        "areaDamage": false,
+        "gemCarrierSuitability": "low"
+      }
+    },
+    {
+      "id": 16000035,
+      "name": "GALE",
+      "class": "CONTROLLER",
+      "rarity": "Epic",
+      "imageUrl": "https://cdn.brawlify.com/brawlers/borderless/16000035.png",
+      "starPowers": [
+        "BLUSTERY-BLOW",
+        "FREEZING-SNOW"
+      ],
+      "gadgets": [
+        "SPRING-EJECTOR",
+        "TWISTER"
+      ],
+      "tags": {
+        "rangeBucket": "mid",
+        "damageProfile": "sustained",
+        "mobility": "med",
+        "controlScore": 3,
+        "sustainScore": 0,
+        "tankiness": "med",
+        "antiTank": null,
+        "antiAssassin": null,
+        "wallbreak": false,
+        "vision": false,
+        "areaDamage": true,
+        "gemCarrierSuitability": "med"
+      }
+    },
+    {
+      "id": 16000034,
+      "name": "JACKY",
+      "class": "TANK",
+      "rarity": "Super Rare",
+      "imageUrl": "https://cdn.brawlify.com/brawlers/borderless/16000034.png",
+      "starPowers": [
+        "COUNTER-CRUSH",
+        "HARDY-HARD-HAT"
+      ],
+      "gadgets": [
+        "PNEUMATIC-BOOSTER",
+        "REBUILD"
+      ],
+      "tags": {
+        "rangeBucket": "short",
+        "damageProfile": "sustained",
+        "mobility": "med",
+        "controlScore": 0,
+        "sustainScore": 1,
+        "tankiness": "high",
+        "antiTank": null,
+        "antiAssassin": null,
+        "wallbreak": false,
+        "vision": false,
+        "areaDamage": true,
+        "gemCarrierSuitability": "med"
+      }
+    },
+    {
+      "id": 16000032,
+      "name": "MAX",
+      "class": "SUPPORT",
+      "rarity": "Mythic",
+      "imageUrl": "https://cdn.brawlify.com/brawlers/borderless/16000032.png",
+      "starPowers": [
+        "SUPER-CHARGED",
+        "RUN-N-GUN"
+      ],
+      "gadgets": [
+        "PHASE-SHIFTER",
+        "SNEAKY-SNEAKERS"
+      ],
+      "tags": {
+        "rangeBucket": "mid",
+        "damageProfile": "sustained",
+        "mobility": "high",
+        "controlScore": 0,
+        "sustainScore": 1,
+        "tankiness": "med",
+        "antiTank": null,
+        "antiAssassin": null,
+        "wallbreak": false,
+        "vision": false,
+        "areaDamage": true,
+        "gemCarrierSuitability": "med"
+      }
+    },
+    {
+      "id": 16000031,
+      "name": "MR-P",
+      "class": "CONTROLLER",
+      "rarity": "Mythic",
+      "imageUrl": "https://cdn.brawlify.com/brawlers/borderless/16000031.png",
+      "starPowers": [
+        "HANDLE-WITH-CARE",
+        "REVOLVING-DOOR"
+      ],
+      "gadgets": [
+        "SERVICE-BELL",
+        "PORTER-REINFORCEMENTS"
+      ],
+      "tags": {
+        "rangeBucket": "mid",
+        "damageProfile": "sustained",
+        "mobility": "med",
+        "controlScore": 0,
+        "sustainScore": 1,
+        "tankiness": "med",
+        "antiTank": null,
+        "antiAssassin": null,
+        "wallbreak": false,
+        "vision": false,
+        "areaDamage": true,
+        "gemCarrierSuitability": "med"
+      }
+    },
+    {
+      "id": 16000030,
+      "name": "EMZ",
+      "class": "CONTROLLER",
+      "rarity": "Epic",
+      "imageUrl": "https://cdn.brawlify.com/brawlers/borderless/16000030.png",
+      "starPowers": [
+        "BAD-KARMA",
+        "HYPE"
+      ],
+      "gadgets": [
+        "FRIENDZONER",
+        "ACID-SPRAY"
+      ],
+      "tags": {
+        "rangeBucket": "mid",
+        "damageProfile": "sustained",
+        "mobility": "low",
+        "controlScore": 2,
+        "sustainScore": 1,
+        "tankiness": "med",
+        "antiTank": null,
+        "antiAssassin": null,
+        "wallbreak": false,
+        "vision": false,
+        "areaDamage": true,
+        "gemCarrierSuitability": "med"
+      }
+    },
+    {
+      "id": 16000029,
+      "name": "BEA",
+      "class": "MARKSMAN",
+      "rarity": "Epic",
+      "imageUrl": "https://cdn.brawlify.com/brawlers/borderless/16000029.png",
+      "starPowers": [
+        "INSTA-BEALOAD",
+        "HONEYCOMB"
+      ],
+      "gadgets": [
+        "HONEY-MOLASSES",
+        "RATTLED-HIVE"
+      ],
+      "tags": {
+        "rangeBucket": "long",
+        "damageProfile": "poke",
+        "mobility": "med",
+        "controlScore": 1,
+        "sustainScore": 1,
+        "tankiness": "low",
+        "antiTank": null,
+        "antiAssassin": null,
+        "wallbreak": false,
+        "vision": false,
+        "areaDamage": true,
+        "gemCarrierSuitability": "med"
+      }
+    },
+    {
+      "id": 16000028,
+      "name": "SANDY",
+      "class": "CONTROLLER",
+      "rarity": "Legendary",
+      "imageUrl": "https://cdn.brawlify.com/brawlers/borderless/16000028.png",
+      "starPowers": [
+        "RUDE-SANDS",
+        "HEALING-WINDS"
+      ],
+      "gadgets": [
+        "SLEEP-STIMULATOR",
+        "SWEET-DREAMS"
+      ],
+      "tags": {
+        "rangeBucket": "mid",
+        "damageProfile": "sustained",
+        "mobility": "low",
+        "controlScore": 0,
+        "sustainScore": 1,
+        "tankiness": "med",
+        "antiTank": null,
+        "antiAssassin": null,
+        "wallbreak": false,
+        "vision": false,
+        "areaDamage": true,
+        "gemCarrierSuitability": "med"
+      }
+    },
+    {
+      "id": 16000027,
+      "name": "8-BIT",
+      "class": "DAMAGE-DEALER",
+      "rarity": "Super Rare",
+      "imageUrl": "https://cdn.brawlify.com/brawlers/borderless/16000027.png",
+      "starPowers": [
+        "BOOSTED-BOOSTER",
+        "PLUGGED-IN"
+      ],
+      "gadgets": [
+        "CHEAT-CARTRIDGE",
+        "EXTRA-CREDITS"
+      ],
+      "tags": {
+        "rangeBucket": "mid",
+        "damageProfile": "sustained",
+        "mobility": "high",
+        "controlScore": 0,
+        "sustainScore": 0,
+        "tankiness": "med",
+        "antiTank": null,
+        "antiAssassin": null,
+        "wallbreak": false,
+        "vision": false,
+        "areaDamage": false,
+        "gemCarrierSuitability": "med"
+      }
+    },
+    {
+      "id": 16000026,
+      "name": "BIBI",
+      "class": "TANK",
+      "rarity": "Epic",
+      "imageUrl": "https://cdn.brawlify.com/brawlers/borderless/16000026.png",
+      "starPowers": [
+        "HOME-RUN",
+        "BATTING-STANCE"
+      ],
+      "gadgets": [
+        "VITAMIN-BOOSTER",
+        "EXTRA-STICKY"
+      ],
+      "tags": {
+        "rangeBucket": "short",
+        "damageProfile": "sustained",
+        "mobility": "high",
+        "controlScore": 1,
+        "sustainScore": 2,
+        "tankiness": "high",
+        "antiTank": null,
+        "antiAssassin": null,
+        "wallbreak": false,
+        "vision": false,
+        "areaDamage": false,
+        "gemCarrierSuitability": "med"
+      }
+    },
+    {
+      "id": 16000025,
+      "name": "CARL",
+      "class": "DAMAGE-DEALER",
+      "rarity": "Super Rare",
+      "imageUrl": "https://cdn.brawlify.com/brawlers/borderless/16000025.png",
+      "starPowers": [
+        "POWER-THROW",
+        "PROTECTIVE-PIROUETTE"
+      ],
+      "gadgets": [
+        "HEAT-EJECTOR",
+        "FLYING-HOOK"
+      ],
+      "tags": {
+        "rangeBucket": "mid",
+        "damageProfile": "sustained",
+        "mobility": "high",
+        "controlScore": 1,
+        "sustainScore": 0,
+        "tankiness": "med",
+        "antiTank": null,
+        "antiAssassin": null,
+        "wallbreak": false,
+        "vision": false,
+        "areaDamage": false,
+        "gemCarrierSuitability": "med"
+      }
+    },
+    {
+      "id": 16000024,
+      "name": "ROSA",
+      "class": "TANK",
+      "rarity": "Rare",
+      "imageUrl": "https://cdn.brawlify.com/brawlers/borderless/16000024.png",
+      "starPowers": [
+        "PLANT-LIFE",
+        "THORNY-GLOVES"
+      ],
+      "gadgets": [
+        "GROW-LIGHT",
+        "UNFRIENDLY-BUSHES"
+      ],
+      "tags": {
+        "rangeBucket": "short",
+        "damageProfile": "sustained",
+        "mobility": "low",
+        "controlScore": 1,
+        "sustainScore": 1,
+        "tankiness": "high",
+        "antiTank": null,
+        "antiAssassin": null,
+        "wallbreak": false,
+        "vision": false,
+        "areaDamage": true,
+        "gemCarrierSuitability": "low"
+      }
+    },
+    {
+      "id": 16000023,
+      "name": "LEON",
+      "class": "ASSASSIN",
+      "rarity": "Legendary",
+      "imageUrl": "https://cdn.brawlify.com/brawlers/borderless/16000023.png",
+      "starPowers": [
+        "SMOKE-TRAILS",
+        "INVISIHEAL"
+      ],
+      "gadgets": [
+        "CLONE-PROJECTOR",
+        "LOLLIPOP-DROP"
+      ],
+      "tags": {
+        "rangeBucket": "short",
+        "damageProfile": "sustained",
+        "mobility": "med",
+        "controlScore": 2,
+        "sustainScore": 1,
+        "tankiness": "low",
+        "antiTank": null,
+        "antiAssassin": null,
+        "wallbreak": false,
+        "vision": false,
+        "areaDamage": true,
+        "gemCarrierSuitability": "low"
+      }
+    },
+    {
+      "id": 16000022,
+      "name": "TICK",
+      "class": "ARTILLERY",
+      "rarity": "Super Rare",
+      "imageUrl": "https://cdn.brawlify.com/brawlers/borderless/16000022.png",
+      "starPowers": [
+        "WELL-OILED",
+        "AUTOMA-TICK-RELOAD"
+      ],
+      "gadgets": [
+        "MINE-MANIA",
+        "LAST-HURRAH"
+      ],
+      "tags": {
+        "rangeBucket": "thrower",
+        "damageProfile": "poke",
+        "mobility": "low",
+        "controlScore": 0,
+        "sustainScore": 2,
+        "tankiness": "low",
+        "antiTank": null,
+        "antiAssassin": null,
+        "wallbreak": false,
+        "vision": false,
+        "areaDamage": true,
+        "gemCarrierSuitability": "low"
+      }
+    },
+    {
+      "id": 16000021,
+      "name": "GENE",
+      "class": "CONTROLLER",
+      "rarity": "Mythic",
+      "imageUrl": "https://cdn.brawlify.com/brawlers/borderless/16000021.png",
+      "starPowers": [
+        "MAGIC-PUFFS",
+        "SPIRIT-SLAP"
+      ],
+      "gadgets": [
+        "LAMP-BLOWOUT",
+        "VENGEFUL-SPIRITS"
+      ],
+      "tags": {
+        "rangeBucket": "mid",
+        "damageProfile": "sustained",
+        "mobility": "low",
+        "controlScore": 2,
+        "sustainScore": 1,
+        "tankiness": "med",
+        "antiTank": null,
+        "antiAssassin": null,
+        "wallbreak": false,
+        "vision": false,
+        "areaDamage": true,
+        "gemCarrierSuitability": "med"
+      }
+    },
+    {
+      "id": 16000020,
+      "name": "FRANK",
+      "class": "TANK",
+      "rarity": "Epic",
+      "imageUrl": "https://cdn.brawlify.com/brawlers/borderless/16000020.png",
+      "starPowers": [
+        "POWER-GRAB",
+        "SPONGE"
+      ],
+      "gadgets": [
+        "ACTIVE-NOISE-CANCELING",
+        "IRRESISTIBLE-ATTRACTION"
+      ],
+      "tags": {
+        "rangeBucket": "short",
+        "damageProfile": "sustained",
+        "mobility": "low",
+        "controlScore": 1,
+        "sustainScore": 1,
+        "tankiness": "high",
+        "antiTank": null,
+        "antiAssassin": null,
+        "wallbreak": false,
+        "vision": false,
+        "areaDamage": false,
+        "gemCarrierSuitability": "low"
+      }
+    },
+    {
+      "id": 16000019,
+      "name": "PENNY",
+      "class": "ARTILLERY",
+      "rarity": "Super Rare",
+      "imageUrl": "https://cdn.brawlify.com/brawlers/borderless/16000019.png",
+      "starPowers": [
+        "HEAVY-COFFERS",
+        "MASTER-BLASTER"
+      ],
+      "gadgets": [
+        "SALTY-BARREL",
+        "TRUSTY-SPYGLASS"
+      ],
+      "tags": {
+        "rangeBucket": "thrower",
+        "damageProfile": "poke",
+        "mobility": "low",
+        "controlScore": 0,
+        "sustainScore": 0,
+        "tankiness": "low",
+        "antiTank": null,
+        "antiAssassin": null,
+        "wallbreak": false,
+        "vision": false,
+        "areaDamage": true,
+        "gemCarrierSuitability": "low"
+      }
+    },
+    {
+      "id": 16000018,
+      "name": "DARRYL",
+      "class": "TANK",
+      "rarity": "Super Rare",
+      "imageUrl": "https://cdn.brawlify.com/brawlers/borderless/16000018.png",
+      "starPowers": [
+        "STEEL-HOOPS",
+        "ROLLING-RELOAD"
+      ],
+      "gadgets": [
+        "RECOILING-ROTATOR",
+        "TAR-BARREL"
+      ],
+      "tags": {
+        "rangeBucket": "short",
+        "damageProfile": "sustained",
+        "mobility": "high",
+        "controlScore": 2,
+        "sustainScore": 0,
+        "tankiness": "high",
+        "antiTank": null,
+        "antiAssassin": null,
+        "wallbreak": false,
+        "vision": false,
+        "areaDamage": true,
+        "gemCarrierSuitability": "med"
+      }
+    },
+    {
+      "id": 16000017,
+      "name": "TARA",
+      "class": "DAMAGE-DEALER",
+      "rarity": "Mythic",
+      "imageUrl": "https://cdn.brawlify.com/brawlers/borderless/16000017.png",
+      "starPowers": [
+        "BLACK-PORTAL",
+        "HEALING-SHADE"
+      ],
+      "gadgets": [
+        "PSYCHIC-ENHANCER",
+        "SUPPORT-FROM-BEYOND"
+      ],
+      "tags": {
+        "rangeBucket": "mid",
+        "damageProfile": "sustained",
+        "mobility": "low",
+        "controlScore": 0,
+        "sustainScore": 1,
+        "tankiness": "med",
+        "antiTank": null,
+        "antiAssassin": null,
+        "wallbreak": false,
+        "vision": false,
+        "areaDamage": false,
+        "gemCarrierSuitability": "med"
+      }
+    },
+    {
+      "id": 16000016,
+      "name": "PAM",
+      "class": "SUPPORT",
+      "rarity": "Epic",
+      "imageUrl": "https://cdn.brawlify.com/brawlers/borderless/16000016.png",
+      "starPowers": [
+        "MAMAS-HUG",
+        "MAMAS-SQUEEZE"
+      ],
+      "gadgets": [
+        "PULSE-MODULATOR",
+        "SCRAPSUCKER"
+      ],
+      "tags": {
+        "rangeBucket": "mid",
+        "damageProfile": "sustained",
+        "mobility": "low",
+        "controlScore": 0,
+        "sustainScore": 1,
+        "tankiness": "med",
+        "antiTank": null,
+        "antiAssassin": null,
+        "wallbreak": false,
+        "vision": false,
+        "areaDamage": true,
+        "gemCarrierSuitability": "med"
+      }
+    },
+    {
+      "id": 16000015,
+      "name": "PIPER",
+      "class": "MARKSMAN",
+      "rarity": "Epic",
+      "imageUrl": "https://cdn.brawlify.com/brawlers/borderless/16000015.png",
+      "starPowers": [
+        "AMBUSH",
+        "SNAPPY-SNIPING"
+      ],
+      "gadgets": [
+        "AUTO-AIMER",
+        "HOMEMADE-RECIPE"
+      ],
+      "tags": {
+        "rangeBucket": "long",
+        "damageProfile": "poke",
+        "mobility": "low",
+        "controlScore": 1,
+        "sustainScore": 0,
+        "tankiness": "low",
+        "antiTank": null,
+        "antiAssassin": null,
+        "wallbreak": false,
+        "vision": false,
+        "areaDamage": false,
+        "gemCarrierSuitability": "low"
+      }
+    },
+    {
+      "id": 16000014,
+      "name": "BO",
+      "class": "CONTROLLER",
+      "rarity": "Epic",
+      "imageUrl": "https://cdn.brawlify.com/brawlers/borderless/16000014.png",
+      "starPowers": [
+        "CIRCLING-EAGLE",
+        "SNARE-A-BEAR"
+      ],
+      "gadgets": [
+        "SUPER-TOTEM",
+        "TRIPWIRE"
+      ],
+      "tags": {
+        "rangeBucket": "mid",
+        "damageProfile": "sustained",
+        "mobility": "low",
+        "controlScore": 3,
+        "sustainScore": 1,
+        "tankiness": "med",
+        "antiTank": null,
+        "antiAssassin": null,
+        "wallbreak": false,
+        "vision": false,
+        "areaDamage": false,
+        "gemCarrierSuitability": "med"
+      }
+    },
+    {
+      "id": 16000013,
+      "name": "POCO",
+      "class": "SUPPORT",
+      "rarity": "Rare",
+      "imageUrl": "https://cdn.brawlify.com/brawlers/borderless/16000013.png",
+      "starPowers": [
+        "DA-CAPO",
+        "SCREECHING-SOLO"
+      ],
+      "gadgets": [
+        "TUNING-FORK",
+        "PROTECTIVE-TUNES"
+      ],
+      "tags": {
+        "rangeBucket": "mid",
+        "damageProfile": "sustained",
+        "mobility": "low",
+        "controlScore": 1,
+        "sustainScore": 1,
+        "tankiness": "med",
+        "antiTank": null,
+        "antiAssassin": null,
+        "wallbreak": false,
+        "vision": false,
+        "areaDamage": true,
+        "gemCarrierSuitability": "med"
+      }
+    },
+    {
+      "id": 16000012,
+      "name": "CROW",
+      "class": "ASSASSIN",
+      "rarity": "Legendary",
+      "imageUrl": "https://cdn.brawlify.com/brawlers/borderless/16000012.png",
+      "starPowers": [
+        "EXTRA-TOXIC",
+        "CARRION-CROW"
+      ],
+      "gadgets": [
+        "DEFENSE-BOOSTER",
+        "SLOWING-TOXIN"
+      ],
+      "tags": {
+        "rangeBucket": "short",
+        "damageProfile": "burst",
+        "mobility": "low",
+        "controlScore": 1,
+        "sustainScore": 2,
+        "tankiness": "low",
+        "antiTank": null,
+        "antiAssassin": null,
+        "wallbreak": false,
+        "vision": false,
+        "areaDamage": false,
+        "gemCarrierSuitability": "low"
+      }
+    },
+    {
+      "id": 16000011,
+      "name": "MORTIS",
+      "class": "ASSASSIN",
+      "rarity": "Mythic",
+      "imageUrl": "https://cdn.brawlify.com/brawlers/borderless/16000011.png",
+      "starPowers": [
+        "CREEPY-HARVEST",
+        "COILED-SNAKE"
+      ],
+      "gadgets": [
+        "COMBO-SPINNER",
+        "CREATURE-OF-THE-NIGHT"
+      ],
+      "tags": {
+        "rangeBucket": "short",
+        "damageProfile": "burst",
+        "mobility": "med",
+        "controlScore": 0,
+        "sustainScore": 1,
+        "tankiness": "low",
+        "antiTank": null,
+        "antiAssassin": null,
+        "wallbreak": false,
+        "vision": false,
+        "areaDamage": true,
+        "gemCarrierSuitability": "low"
+      }
+    },
+    {
+      "id": 16000010,
+      "name": "EL-PRIMO",
+      "class": "TANK",
+      "rarity": "Rare",
+      "imageUrl": "https://cdn.brawlify.com/brawlers/borderless/16000010.png",
+      "starPowers": [
+        "EL-FUEGO",
+        "METEOR-RUSH"
+      ],
+      "gadgets": [
+        "SUPLEX-SUPPLEMENT",
+        "ASTEROID-BELT"
+      ],
+      "tags": {
+        "rangeBucket": "short",
+        "damageProfile": "sustained",
+        "mobility": "med",
+        "controlScore": 0,
+        "sustainScore": 0,
+        "tankiness": "high",
+        "antiTank": null,
+        "antiAssassin": null,
+        "wallbreak": true,
+        "vision": false,
+        "areaDamage": false,
+        "gemCarrierSuitability": "low"
+      }
+    },
+    {
+      "id": 16000009,
+      "name": "DYNAMIKE",
+      "class": "ARTILLERY",
+      "rarity": "Super Rare",
+      "imageUrl": "https://cdn.brawlify.com/brawlers/borderless/16000009.png",
+      "starPowers": [
+        "DYNA-JUMP",
+        "DEMOLITION"
+      ],
+      "gadgets": [
+        "FIDGET-SPINNER",
+        "SATCHEL-CHARGE"
+      ],
+      "tags": {
+        "rangeBucket": "thrower",
+        "damageProfile": "poke",
+        "mobility": "high",
+        "controlScore": 1,
+        "sustainScore": 0,
+        "tankiness": "low",
+        "antiTank": null,
+        "antiAssassin": null,
+        "wallbreak": false,
+        "vision": false,
+        "areaDamage": true,
+        "gemCarrierSuitability": "low"
+      }
+    },
+    {
+      "id": 16000008,
+      "name": "NITA",
+      "class": "DAMAGE-DEALER",
+      "rarity": "Rare",
+      "imageUrl": "https://cdn.brawlify.com/brawlers/borderless/16000008.png",
+      "starPowers": [
+        "BEAR-WITH-ME",
+        "HYPER-BEAR"
+      ],
+      "gadgets": [
+        "BEAR-PAWS",
+        "FAUX-FUR"
+      ],
+      "tags": {
+        "rangeBucket": "mid",
+        "damageProfile": "sustained",
+        "mobility": "low",
+        "controlScore": 1,
+        "sustainScore": 2,
+        "tankiness": "med",
+        "antiTank": null,
+        "antiAssassin": null,
+        "wallbreak": false,
+        "vision": false,
+        "areaDamage": false,
+        "gemCarrierSuitability": "med"
+      }
+    },
+    {
+      "id": 16000007,
+      "name": "JESSIE",
+      "class": "CONTROLLER",
+      "rarity": "Super Rare",
+      "imageUrl": "https://cdn.brawlify.com/brawlers/borderless/16000007.png",
+      "starPowers": [
+        "ENERGIZE",
+        "SHOCKY"
+      ],
+      "gadgets": [
+        "SPARK-PLUG",
+        "RECOIL-SPRING"
+      ],
+      "tags": {
+        "rangeBucket": "mid",
+        "damageProfile": "sustained",
+        "mobility": "low",
+        "controlScore": 2,
+        "sustainScore": 1,
+        "tankiness": "med",
+        "antiTank": null,
+        "antiAssassin": null,
+        "wallbreak": false,
+        "vision": false,
+        "areaDamage": true,
+        "gemCarrierSuitability": "med"
+      }
+    },
+    {
+      "id": 16000006,
+      "name": "BARLEY",
+      "class": "ARTILLERY",
+      "rarity": "Rare",
+      "imageUrl": "https://cdn.brawlify.com/brawlers/borderless/16000006.png",
+      "starPowers": [
+        "MEDICAL-USE",
+        "EXTRA-NOXIOUS"
+      ],
+      "gadgets": [
+        "STICKY-SYRUP-MIXER",
+        "HERBAL-TONIC"
+      ],
+      "tags": {
+        "rangeBucket": "thrower",
+        "damageProfile": "sustained",
+        "mobility": "low",
+        "controlScore": 2,
+        "sustainScore": 1,
+        "tankiness": "low",
+        "antiTank": null,
+        "antiAssassin": null,
+        "wallbreak": false,
+        "vision": false,
+        "areaDamage": true,
+        "gemCarrierSuitability": "low"
+      }
+    },
+    {
+      "id": 16000005,
+      "name": "SPIKE",
+      "class": "DAMAGE-DEALER",
+      "rarity": "Legendary",
+      "imageUrl": "https://cdn.brawlify.com/brawlers/borderless/16000005.png",
+      "starPowers": [
+        "FERTILIZE",
+        "CURVEBALL"
+      ],
+      "gadgets": [
+        "POPPING-PINCUSHION",
+        "LIFE-PLANT"
+      ],
+      "tags": {
+        "rangeBucket": "mid",
+        "damageProfile": "sustained",
+        "mobility": "med",
+        "controlScore": 0,
+        "sustainScore": 1,
+        "tankiness": "med",
+        "antiTank": null,
+        "antiAssassin": null,
+        "wallbreak": false,
+        "vision": false,
+        "areaDamage": true,
+        "gemCarrierSuitability": "med"
+      }
+    },
+    {
+      "id": 16000004,
+      "name": "RICO",
+      "class": "DAMAGE-DEALER",
+      "rarity": "Super Rare",
+      "imageUrl": "https://cdn.brawlify.com/brawlers/borderless/16000004.png",
+      "starPowers": [
+        "SUPER-BOUNCY",
+        "ROBO-RETREAT"
+      ],
+      "gadgets": [
+        "MULTIBALL-LAUNCHER",
+        "BOUNCY-CASTLE"
+      ],
+      "tags": {
+        "rangeBucket": "mid",
+        "damageProfile": "sustained",
+        "mobility": "high",
+        "controlScore": 0,
+        "sustainScore": 1,
+        "tankiness": "med",
+        "antiTank": null,
+        "antiAssassin": null,
+        "wallbreak": false,
+        "vision": false,
+        "areaDamage": true,
+        "gemCarrierSuitability": "med"
+      }
+    },
+    {
+      "id": 16000003,
+      "name": "BROCK",
+      "class": "MARKSMAN",
+      "rarity": "Rare",
+      "imageUrl": "https://cdn.brawlify.com/brawlers/borderless/16000003.png",
+      "starPowers": [
+        "MORE-ROCKETS",
+        "ROCKET-NO-4"
+      ],
+      "gadgets": [
+        "ROCKET-LACES",
+        "ROCKET-FUEL"
+      ],
+      "tags": {
+        "rangeBucket": "long",
+        "damageProfile": "poke",
+        "mobility": "med",
+        "controlScore": 0,
+        "sustainScore": 0,
+        "tankiness": "low",
+        "antiTank": null,
+        "antiAssassin": null,
+        "wallbreak": true,
+        "vision": false,
+        "areaDamage": true,
+        "gemCarrierSuitability": "low"
+      }
+    },
+    {
+      "id": 16000002,
+      "name": "BULL",
+      "class": "TANK",
+      "rarity": "Rare",
+      "imageUrl": "https://cdn.brawlify.com/brawlers/borderless/16000002.png",
+      "starPowers": [
+        "BERSERKER",
+        "TOUGH-GUY"
+      ],
+      "gadgets": [
+        "T-BONE-INJECTOR",
+        "STOMPER"
+      ],
+      "tags": {
+        "rangeBucket": "short",
+        "damageProfile": "sustained",
+        "mobility": "low",
+        "controlScore": 1,
+        "sustainScore": 2,
+        "tankiness": "high",
+        "antiTank": null,
+        "antiAssassin": null,
+        "wallbreak": false,
+        "vision": false,
+        "areaDamage": false,
+        "gemCarrierSuitability": "med"
+      }
+    },
+    {
+      "id": 16000001,
+      "name": "COLT",
+      "class": "DAMAGE-DEALER",
+      "rarity": "Rare",
+      "imageUrl": "https://cdn.brawlify.com/brawlers/borderless/16000001.png",
+      "starPowers": [
+        "SLICK-BOOTS",
+        "MAGNUM-SPECIAL"
+      ],
+      "gadgets": [
+        "SPEEDLOADER",
+        "SILVER-BULLET"
+      ],
+      "tags": {
+        "rangeBucket": "mid",
+        "damageProfile": "sustained",
+        "mobility": "low",
+        "controlScore": 1,
+        "sustainScore": 0,
+        "tankiness": "med",
+        "antiTank": null,
+        "antiAssassin": null,
+        "wallbreak": false,
+        "vision": false,
+        "areaDamage": false,
+        "gemCarrierSuitability": "low"
+      }
+    },
+    {
+      "id": 16000000,
+      "name": "SHELLY",
+      "class": "DAMAGE-DEALER",
+      "rarity": "Common",
+      "imageUrl": "https://cdn.brawlify.com/brawlers/borderless/16000000.png",
+      "starPowers": [
+        "SHELL-SHOCK",
+        "BAND-AID"
+      ],
+      "gadgets": [
+        "FAST-FORWARD",
+        "CLAY-PIGEONS"
+      ],
+      "tags": {
+        "rangeBucket": "mid",
+        "damageProfile": "sustained",
+        "mobility": "high",
+        "controlScore": 2,
+        "sustainScore": 1,
+        "tankiness": "med",
+        "antiTank": null,
+        "antiAssassin": null,
+        "wallbreak": false,
+        "vision": false,
+        "areaDamage": true,
+        "gemCarrierSuitability": "med"
+      }
+    }
+  ],
+  "notes": {
+    "source": "Parsed from brawlers.pdf (Brawlify brawlers JSON). Tags are heuristic defaults; refine as needed.",
+    "schemaVersion": 1
+  }
+}
